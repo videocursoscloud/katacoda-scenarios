@@ -1,7 +1,7 @@
 {
-  "title": "prueba",
-  "description": "prueba",
-  "difficulty": "Beginner",
+  "title": "asdf",
+  "description": "af",
+  "difficulty": "Advanced",
   "time": "60 minutes",
   "details": {
     "steps": [
@@ -24,6 +24,26 @@
       {
         "title": "Step 5",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step6.md"
+      },
+      {
+        "title": "Step 7",
+        "text": "step7.md"
+      },
+      {
+        "title": "Step 8",
+        "text": "step8.md"
+      },
+      {
+        "title": "Step 9",
+        "text": "step9.md"
+      },
+      {
+        "title": "Step 10",
+        "text": "step10.md"
       }
     ],
     "intro": {
@@ -33,7 +53,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal"
+  },
   "backend": {
     "imageid": "aspnet"
   }
