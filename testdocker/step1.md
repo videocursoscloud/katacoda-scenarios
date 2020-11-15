@@ -1,1 +1,1 @@
-`top`{{execute}}
+`top`{{copy}}
